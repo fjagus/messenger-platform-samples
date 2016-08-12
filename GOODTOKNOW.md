@@ -1,0 +1,1 @@
+This is my first attempts of using Git, so let's be positive.
